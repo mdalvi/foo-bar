@@ -1,2 +1,2 @@
 # foo-bar
-Test repository with nothing :)
+A foo that bars (^_^)
